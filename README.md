@@ -1,4 +1,4 @@
-<center><h1>QuiziFy-Frontend</h1></center>
+<center><h1>QuiziFy-Frontended</h1></center>
 The goal of this project is to provide a flexible and engaging mobile application for quizzes.
 
 
